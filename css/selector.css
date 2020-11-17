@@ -23,3 +23,14 @@ h2{
 .web-list a[target]{
     color: blueviolet;
 }
+#cover{
+    border: 5px solid green;
+}
+
+.study-list li:first-child{
+    background-color: skyblue;
+}
+
+.stydy-list li:last-child{
+    background-color: orange;
+}
