@@ -1,0 +1,25 @@
+h1{
+    color: red !important;
+    font-size: 20px;
+}
+h1{
+    color: green;
+}
+.brand{
+    color: blue;
+}
+.logo{
+    color: purple;
+}
+
+.lecture-list li{
+    font-size: 12px;
+}
+
+h2{
+    background-color: yellow;
+}
+
+.web-list a[target]{
+    color: blueviolet;
+}
