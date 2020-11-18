@@ -1,0 +1,15 @@
+body{
+    height: 100vh;
+    color: #fEfEfE;
+    background-color: #181818;
+    background-image: url(./../img/alvaro-reyes-qWwpHwip31M-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+
+.welcom{
+    font-size: 6em;
+    text-align: center;
+    background-color: hsla(110, 50%, 50%, 0.5);
+}
